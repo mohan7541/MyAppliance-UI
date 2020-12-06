@@ -1,0 +1,7 @@
+.btn-success, .nav-link.active {
+    background-color: #5cb85c;
+}
+a {
+    color: #5cb85c;
+    cursor: pointer;
+}
